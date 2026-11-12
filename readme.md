@@ -1,4 +1,4 @@
-# 🏥 US Healthcare Analytics | SQL, PostgreSQL & Python
+# 🏥 Healthcare Analytics | SQL, PostgreSQL & Python
 
 An end-to-end healthcare data analytics project that transforms raw patient and medical claims data into meaningful business insights using **Python, PostgreSQL, SQL, and Jupyter Notebook**.
 
